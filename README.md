@@ -11,6 +11,10 @@ Insights and recommendations are provided on the following areas:
 - Where refund risk is concentrated and what anomalies require further investigation
 - How discounts and coupons affect net revenue and customer behavior
 
+SQL cleaning queries can be found [there](https://github.com/marss82/e-shop/blob/main/data_cleaning.sql)
+
+SQL explortion queries can be found [there](https://github.com/marss82/e-shop/blob/main/exploration.sql)
+
 ## Data Structure & Initial Checks
 
 We have ~29 000 order records for 2 years period
